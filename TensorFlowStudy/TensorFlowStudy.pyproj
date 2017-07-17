@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b6c0ebe0-1330-44b7-9a98-7c5420d0c340</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lab01_Basic.py</StartupFile>
+    <StartupFile>Lab03_MinimizeCost.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Lab02_LinearRegression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lab03_MinimizeCost.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
