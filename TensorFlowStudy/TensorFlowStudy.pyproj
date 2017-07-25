@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b6c0ebe0-1330-44b7-9a98-7c5420d0c340</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lab03_MinimizeCost.py</StartupFile>
+    <StartupFile>Lab03_MinimizeCost_new.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,6 +31,7 @@
     <Compile Include="Lab03_MinimizeCost.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Lab03_MinimizeCost_new.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
