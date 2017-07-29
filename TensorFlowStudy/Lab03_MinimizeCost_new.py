@@ -11,7 +11,7 @@ hypho = W*x
 cost = tf.reduce_sum(tf.square(hypho-y))
 
 learning_rate = 0.1
-gradient = tf.reduce_mean((W*x - y ) *W)   # gradient : 경사
+gradient = tf.reduce_mean((W*x - y ) *W)   # pdf 참고
 descent = W-learning_rate*gradient
 update = W.assign(descent)
 
