@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b6c0ebe0-1330-44b7-9a98-7c5420d0c340</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lab04_(2)QueueRunner.py</StartupFile>
+    <StartupFile>Lab05_LogisticRegSample.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -39,6 +39,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Lab04_Multi_LinearRegression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lab05_LogisticRegSample.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lab05_Logistic_Diabate.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lab06_SoftMax.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
