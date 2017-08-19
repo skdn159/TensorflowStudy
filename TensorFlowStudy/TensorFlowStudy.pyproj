@@ -53,6 +53,9 @@
     <Compile Include="Lab06_SoftMax.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Lab07_MNIST.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
